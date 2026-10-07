@@ -66,6 +66,10 @@ tags_raw:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/o11.png
 apis: []
 common:
+- type: Pricing
+  url: https://o11.ai/pricing
+- type: Plans
+  url: plans/o11-plans-pricing.yml
 - url: https://o11.ai/blog
   type: Blog
 - type: DomainSecurity
